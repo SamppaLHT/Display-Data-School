@@ -162,11 +162,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - Icons from [Expo Vector Icons](https://icons.expo.fyi/)
 - Built with [Expo](https://expo.dev/)
 
-## Contact 
-
-SamppaLHT - [@SamppaLHT](https://github.com/SamppaLHT)
-
-Project Link: [https://github.com/SamppaLHT/Display-Data-School](https://github.com/SamppaLHT/Display-Data-School)
-
----
 
