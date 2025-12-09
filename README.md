@@ -10,12 +10,6 @@
 - **Beautiful Dark UI** - Modern, user-friendly interface with weather icons
 - **Cross-Platform** - Works on iOS, Android, and web
 
-## Screenshots
-
-<div align="center">
-  <img src="screenshots/ss1.jpeg" alt="Weather App Home" width="300"/>
-  <img src="screenshots/ss2.jpeg" alt="Weather App Forecast" width="300"/>
-</div>
 
 ## Prerequisites 
 
