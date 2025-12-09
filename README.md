@@ -1,8 +1,8 @@
-# Weather App 🌤️
+# Weather App 
 
 A beautiful, cross-platform mobile weather application built with React Native and Expo. Get current weather conditions and a 5-day forecast for your location or any city worldwide.
 
-## Features ✨
+## Features 
 
 - **GPS Location Support** - Automatically detect your current location
 - **Manual City Search** - Search weather for any city by name
@@ -15,7 +15,7 @@ A beautiful, cross-platform mobile weather application built with React Native a
 
 ![Weather App Preview](https://via.placeholder.com/400x800.png?text=Weather+App)
 
-## Prerequisites 📋
+## Prerequisites 
 
 Before you begin, ensure you have the following installed:
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 - **Expo Go** app on your mobile device ([iOS](https://apps.apple.com/app/expo-go/id982107779) | [Android](https://play.google.com/store/apps/details?id=host.exp.exponent))
 
-## Installation 🚀
+## Installation 
 
 1. **Clone the repository**
    ```bash
@@ -59,7 +59,7 @@ Before you begin, ensure you have the following installed:
    npm start
    ```
 
-## Running the App 📱
+## Running the App 
 
 ### On Your Phone
 
@@ -75,7 +75,7 @@ Before you begin, ensure you have the following installed:
 - **iOS**: Press `i` in the terminal (macOS only)
 - **Web**: Press `w` in the terminal
 
-## Usage 🎯
+## Usage 
 
 1. **Grant Location Permission** (optional)
    - On first launch, the app will request location access
@@ -89,7 +89,7 @@ Before you begin, ensure you have the following installed:
    - Tap the search icon or press Enter
    - View current weather and 5-day forecast
 
-## Project Structure 📁
+## Project Structure 
 
 ```
 DataDisp/
@@ -103,7 +103,7 @@ DataDisp/
 └── tsconfig.json        # TypeScript configuration
 ```
 
-## Technologies Used 🛠️
+## Technologies Used 
 
 - **[React Native](https://reactnative.dev/)** - Mobile app framework
 - **[Expo](https://expo.dev/)** - Development platform
@@ -113,7 +113,7 @@ DataDisp/
 - **[OpenWeatherMap API](https://openweathermap.org/api)** - Weather data provider
 - **[@expo/vector-icons](https://icons.expo.fyi/)** - Icon library
 
-## API Configuration ⚙️
+## API Configuration 
 
 The app uses the OpenWeatherMap API with the following endpoints:
 
@@ -122,7 +122,7 @@ The app uses the OpenWeatherMap API with the following endpoints:
 
 Temperature is displayed in **Celsius** (metric units).
 
-## Permissions 🔐
+## Permissions 
 
 ### iOS
 - **Location When In Use**: Required to fetch weather based on your current location
@@ -131,7 +131,7 @@ Temperature is displayed in **Celsius** (metric units).
 - **ACCESS_FINE_LOCATION**: Required for precise location
 - **ACCESS_COARSE_LOCATION**: Required for approximate location
 
-## Troubleshooting 🔧
+## Troubleshooting 
 
 ### App won't open on device
 - Ensure both devices are on the same WiFi network
@@ -151,7 +151,7 @@ Temperature is displayed in **Celsius** (metric units).
 - Run `npm install` to ensure all dependencies are installed
 - Delete `node_modules` and reinstall if issues persist
 
-## Contributing 🤝
+## Contributing 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -165,7 +165,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Acknowledgments 🙏
+## Acknowledgments 
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
 - Icons from [Expo Vector Icons](https://icons.expo.fyi/)
