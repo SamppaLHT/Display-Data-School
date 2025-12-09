@@ -12,7 +12,10 @@
 
 ## Screenshots
 
-![Weather App Preview](https://via.placeholder.com/400x800.png?text=Weather+App)
+<div align="center">
+  <img src="screenshots/ss1.png" alt="Weather App Home" width="300"/>
+  <img src="screenshots/ss2.png" alt="Weather App Forecast" width="300"/>
+</div>
 
 ## Prerequisites 
 
