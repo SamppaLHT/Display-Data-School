@@ -1,6 +1,3 @@
-# Weather App 
-
-A beautiful, cross-platform mobile weather application built with React Native and Expo. Get current weather conditions and a 5-day forecast for your location or any city worldwide.
 
 ## Features 
 
